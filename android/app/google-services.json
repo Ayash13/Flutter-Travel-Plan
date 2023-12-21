@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "202363174131",
+    "project_id": "travelplan-4f246",
+    "storage_bucket": "travelplan-4f246.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202363174131:android:0d1287cf104a3f6fac8b86",
+        "android_client_info": {
+          "package_name": "com.example.travelplan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw1XfVJUkvvwTgKAm7fUXkKV5tsEx-MSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
